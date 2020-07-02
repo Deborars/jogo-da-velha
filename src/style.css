@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --main-bg-color: gray;
+}
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.stage{
+    width: 450px;
+    margin: 0 auto;
+}
+
+
+td{
+    width:150px ;
+    height: 150px;
+    background-color: beige;
+    border: 1px solid var(--main-bg-color);
+    box-shadow: 10px 10px 5px var(--main-bg-color);
+}
+
+
+.o::after{
+    content: "\1F6E1";
+    font-size: 80px; 
+}
+
+
+
+.x::after{
+    content: "\2694";
+    font-size: 80px;
+}
