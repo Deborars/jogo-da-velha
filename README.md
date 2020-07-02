@@ -5,6 +5,6 @@ O jogo foi desenvolvido com a partir de uma tabela com id em cada celula. Foram 
 
 # Imagens da versão mobile e desktop em sequência:
 
-!["mobile"](mobile.jpg);
+!["mobile"](src/mobile.jpg);
 
-![desktop](desktop.jpg);
+![desktop](src/desktop.jpg);
